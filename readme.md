@@ -29,3 +29,8 @@ These are the things you would need in order to play with the big boys.
 ## Nice to Haves
 * [HDD => SSD](https://www.amazon.com/Samsung-500GB-Internal-MZ-76E500B-AM/dp/B0781Z7Y3S/ref=sxin_2_ac_d_pm?ac_md=2-0-VW5kZXIgJDkw-ac_d_pm&cv_ct_cx=samsung+evo+500gb&dchild=1&keywords=samsung+evo+500gb&pd_rd_i=B0781Z7Y3S&pd_rd_r=4376f13d-8c2f-4b6d-83ac-49cd2fedfc19&pd_rd_w=NSEO5&pd_rd_wg=TToji&pf_rd_p=0e223c60-bcf8-4663-98f3-da892fbd4372&pf_rd_r=JDKE0QTED17BE8RN0AGA&psc=1&qid=1584642792&s=electronics)
 * [16GB RAM](https://www.amazon.com/Corsair-Vengeance-3000MHz-Desktop-Memory/dp/B0134EW7G8/ref=sr_1_3?dchild=1&keywords=16gb+ram&qid=1584643006&s=electronics&sr=1-3)
+
+## Game suggestions
+* [Sea of Thieves](seaofthieves.com)
+* [Star Citizen](https://robertsspaceindustries.com/)
+* [Cyberpunk 2077](https://www.cyberpunk.net/us/en/)
